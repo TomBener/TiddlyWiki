@@ -1,3 +1,3 @@
 # TiddlyWiki
 
-My Blog Powered by [TiddlyWiki](https://tiddlywiki.com).
+My Wiki Powered by [TiddlyWiki](https://tiddlywiki.com).
